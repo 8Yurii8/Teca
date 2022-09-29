@@ -1,1 +1,1 @@
-# Teca
+# goit-markup-hw-01
